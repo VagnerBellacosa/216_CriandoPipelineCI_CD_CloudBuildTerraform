@@ -32,7 +32,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando Pipeline de CI/CD com Cloud Build e Terraform](https://web.dio.me/lab/criando-pipeline-de-cicd-com-cloud-build-e-terraform/learning/69511b3f-db3f-49ab-aa38-84c2b91e767f)[Materiais de apoio](https://web.dio.me/lab/criando-pipeline-de-cicd-com-cloud-build-e-terraform/learning/d64fd0cd-6e6b-4f4f-8ce9-2db219fd984a)67f
+- [Criando Pipeline de CI/CD com Cloud Build e Terraform](https://web.dio.me/lab/criando-pipeline-de-cicd-com-cloud-build-e-terraform/learning/69511b3f-db3f-49ab-aa38-84c2b91e767f)
+- [Materiais de apoio](https://web.dio.me/lab/criando-pipeline-de-cicd-com-cloud-build-e-terraform/learning/d64fd0cd-6e6b-4f4f-8ce9-2db219fd984a)67f
 
 
 
